@@ -2,7 +2,9 @@
 
 # Purpose
 
-The purpose of this automation is to detect misconfigured Elastic IP Realtime which are vulnerable to takeover and sends an alert on Slack. For more information refer to this link: https://puneetkmr187.hashnode.dev/detecting-vulnerable-elastic-ips-realtime
+The purpose of this automation is to detect misconfigured Elastic IP Realtime which are vulnerable to takeover and sends an alert on Slack. For more information refer to this:
+[Link](https://puneetkmr187.hashnode.dev/detecting-vulnerable-elastic-ips-realtime) 
+
 
 # Deployment Options
 
